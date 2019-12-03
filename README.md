@@ -1,0 +1,2 @@
+# hello-
+int main() {   int i;   for (i = 0; i &lt; 32; i++)   {     printf("hello Holberton\n");   }   return 0; }
